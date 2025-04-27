@@ -1,0 +1,9 @@
+.board-row {
+    /*margin-left:100px;*/
+}
+
+.square {
+    width: 30px;
+    height: 30px;
+    border: 1px solid black;
+}
